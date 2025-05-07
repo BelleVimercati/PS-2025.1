@@ -1,6 +1,6 @@
 # Bem vindos candidatos! 👋
 
-Este repositório serve para que vocês possam adicionar o trabalho que vocês realizaram no nosso desafio do processo seletivo de 2024.2 e exercitarem Git/Github.
+Este repositório serve para que vocês possam adicionar o trabalho que vocês realizaram no nosso desafio do processo seletivo de 2025.1 e exercitarem Git/Github.
 
 ## Desafio 🚀
 
